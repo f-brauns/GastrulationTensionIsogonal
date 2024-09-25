@@ -1,5 +1,5 @@
 # GastrulationTensionIsogonal
-Code for the eLife paper "The Geometric Basis of Epithelial Convergent Extension" https://doi.org/10.7554/eLife.95521
+Code for the eLife paper Brauns et al. *eLife* (2024) "The Geometric Basis of Epithelial Convergent Extension" [https://doi.org/10.7554/eLife.95521]
 
 
 ## Repository structure
